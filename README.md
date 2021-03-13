@@ -1,24 +1,23 @@
 # 自我介绍
 
-我叫小F，我的爱好是 
+java后端程序猿一枚~
 
-* 唱
-* 跳
-* rap
-* 篮球
+* 看书
+* 音乐
+* 桌游
 
-我的前女友有
+现在想转行搞前端，希望能够坚持下去，成功上岸！
 
-1. 新垣结衣
-2. 石原里美
-3. 迪丽热巴
-4. 古力娜扎
+1. 加油！
+2. 加油！！
+3. 加油！！！
+4. 加油！！！！
 
 学过的编程语言有 `HTML` `CSS` `JavaScript`。我写一段给你瞧瞧吧
 
 ```javascript
 function f(){
-  console.log('hello world')
+  console.log('Ccc Man fighting!')
 }
 
 f()
